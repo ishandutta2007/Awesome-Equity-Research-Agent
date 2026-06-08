@@ -149,3 +149,7 @@ Yes. Using frameworks like **Ollama**, **Agno**, and **OpenClaw**, you can deplo
 	 </picture>
 	</a>
 </div>
+
+## 🔐 Agent Identity & Trust
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring and wallet identity verification for equity research AI agents. Verify agent identity before accessing premium financial data APIs or making autonomous x402 micropayments for market data. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
