@@ -52,6 +52,9 @@ In 2026, "AI Copilots" have evolved into **Autonomous Research Agents**. This re
 - **[Prospero.ai](https://prospero.ai/)**  
   Autonomous agents for generating **professional-grade equity research reports** and institutional investment theses.
 
+- **[FilingFirehose](https://filingfirehose.com/)**  
+  SEC EDGAR risk-scoring platform with **AI per-ticker reports** that surface 8-K cyber incidents, dilution, restatement risk, and officer departures across any US-listed company. Includes a hosted MCP endpoint at `https://filingfirehose.com/mcp` for agents.
+
 ---
 
 ## Open-Source GitHub Projects
