@@ -82,7 +82,7 @@ In 2026, "AI Copilots" have evolved into **Autonomous Research Agents**. This re
 - **[FinRobot](https://github.com/ai4finance-foundation/FinRobot)** [![GitHub Stars](https://img.shields.io/github/stars/ai4finance-foundation/FinRobot?style=social&color=white)](https://github.com/ai4finance-foundation/FinRobot/stargazers)  
   Open-source AI agent platform for financial applications, including specialized agents for fundamental analysis and report generation.
 
-- **[XVARY/Stock-Research](https://github.com/XVARY/Stock-Research)** [![GitHub Stars](https://img.shields.io/github/stars/XVARY/Stock-Research?style=social&color=white)](https://github.com/XVARY/Stock-Research/stargazers)  
+- **[xvary-research/Stock-Research](xvary-research/claude-code-stock-analysis-skill)** [![GitHub Stars](https://img.shields.io/github/stars/xvary-research/claude-code-stock-analysis-skill?style=social&color=white)](https://github.com/xvary-research/claude-code-stock-analysis-skill/stargazers)  
   Specialized skill for Claude Code that integrates SEC EDGAR data for automated stock scoring and comparison.
 
 ---
