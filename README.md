@@ -50,35 +50,32 @@ In 2026, "AI Copilots" have evolved into **Autonomous Research Agents**. This re
 
 ## Open-Source GitHub Projects
 
-### Autonomous Hedge Fund & Trading Simulations
+- **[OpenClaw](https://github.com/OpenClaw/OpenClaw)** [![GitHub Stars](https://img.shields.io/github/stars/OpenClaw/OpenClaw?style=social&color=white)](https://github.com/OpenClaw/OpenClaw/stargazers)  
+  A personal AI assistant framework that has seen rapid growth, serving as a key component for private research interfaces.
 
-- **[ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)**  
-  A trending framework that uses a **Multi-Agent Debate Model** (Bull vs. Bear) to analyze stocks and reach investment conclusions.
+- **[Ollama](https://github.com/ollama/ollama)** [![GitHub Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)  
+  The go-to backend for running LLMs (Llama 3, Mistral, etc.) locally and privately to analyze sensitive financial data without cloud exposure.
 
-- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)**  
+- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** [![GitHub Stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=social&color=white)](https://github.com/TauricResearch/TradingAgents/stargazers)  
   A "Trading Firm in a Box" using LangGraph to orchestrate Fundamental, Technical, and Risk Management agents.
 
-- **[FinRobot](https://github.com/ai4finance-foundation/FinRobot)**  
-  Open-source AI agent platform for financial applications, including specialized agents for fundamental analysis and report generation.
-
-### Document Intelligence & Verifiable RAG
-
-- **[RAGFlow](https://github.com/infiniflow/ragflow)**  
+- **[RAGFlow](https://github.com/infiniflow/ragflow)** [![GitHub Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)  
   An enterprise-grade RAG engine with deep document understanding—essential for building **SEC Filing Analysis Agents**.
 
-- **[XVARY/Stock-Research](https://github.com/XVARY/Stock-Research)**  
-  Specialized skill for Claude Code that integrates SEC EDGAR data for automated stock scoring and comparison.
-
-- **[OpenBB](https://github.com/OpenBB-finance/OpenBB)**  
+- **[OpenBB](https://github.com/OpenBB-finance/OpenBB)** [![GitHub Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=social&color=white)](https://github.com/OpenBB-finance/OpenBB/stargazers)  
   The "Open Source Bloomberg" now featuring AI extensions for terminal-based agentic research.
 
-### Local & Private Financial AI
+- **[ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** [![GitHub Stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=social&color=white)](https://github.com/virattt/ai-hedge-fund/stargazers)  
+  A trending framework that uses a **Multi-Agent Debate Model** (Bull vs. Bear) to analyze stocks and reach investment conclusions.
 
-- **[Ollama](https://github.com/ollama/ollama)** + **[OpenClaw](https://github.com/OpenClaw/OpenClaw)**  
-  The go-to stack for **Private Equity Research Agents**. Run Llama 3 or Mistral locally to analyze sensitive internal data without cloud exposure.
-
-- **[Agno (formerly Phidata)](https://github.com/phidatahq/phidata)**  
+- **[Agno (formerly Phidata)](https://github.com/phidatahq/phidata)** [![GitHub Stars](https://img.shields.io/github/stars/phidatahq/phidata?style=social&color=white)](https://github.com/phidatahq/phidata/stargazers)  
   Framework for building autonomous AI agents with memory and tool-use. Ideal for custom **Financial RAG pipelines**.
+
+- **[FinRobot](https://github.com/ai4finance-foundation/FinRobot)** [![GitHub Stars](https://img.shields.io/github/stars/ai4finance-foundation/FinRobot?style=social&color=white)](https://github.com/ai4finance-foundation/FinRobot/stargazers)  
+  Open-source AI agent platform for financial applications, including specialized agents for fundamental analysis and report generation.
+
+- **[XVARY/Stock-Research](https://github.com/XVARY/Stock-Research)** [![GitHub Stars](https://img.shields.io/github/stars/XVARY/Stock-Research?style=social&color=white)](https://github.com/XVARY/Stock-Research/stargazers)  
+  Specialized skill for Claude Code that integrates SEC EDGAR data for automated stock scoring and comparison.
 
 ---
 
