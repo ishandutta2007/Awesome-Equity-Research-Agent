@@ -1,12 +1,26 @@
-# Awesome Equity Research Agents & Agentic Workflows
+# 📈 Awesome Equity Research Agents & Agentic Workflows
 
-## Top Autonomous AI Agents & Multi-Agent Systems for Financial Intelligence
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Equity Research Agent Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Equity-Research-Agent"><img alt="Awesome" src="https://awesome.re/badge.svg" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Equity-Research-Agent/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Equity-Research-Agent/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Equity-Research-Agent/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Equity-Research-Agent" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+---
+
+## 🔍 Overview & Financial Intelligence
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Agentic RAG, Multi-Agent Orchestration, and Autonomous Research Pipelines*  
 **Last updated: May 2026**
 
-This repository tracks the frontier of **Equity Research AI Agents** and **Agentic Workflows**. Unlike traditional LLM chatbots, these systems utilize multi-step reasoning, autonomous tool-use, and multi-agent collaboration to perform deep company analysis, financial modeling, and real-time market monitoring.
+This repository tracks the frontier of **Equity Research AI Agents**, **Autonomous Financial AI**, and **Agentic Workflows**. Unlike traditional LLM chatbots, these systems utilize multi-step reasoning, autonomous tool-use, and multi-agent collaboration to perform deep company analysis, financial modeling, and real-time market monitoring.
 
 **Targeting**: Buy-side analysts, Hedge Funds, Asset Managers, and Fintech Developers building the next generation of **Autonomous Financial Intelligence**.
 
@@ -22,18 +36,18 @@ In 2026, "AI Copilots" have evolved into **Autonomous Research Agents**. This re
 
 ---
 
-## Table of Contents
-- [SaaS Products](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Niche Use Cases & Agentic Workflows](#niche-use-cases--agentic-workflows)
-- [Agentic Frameworks for Finance](#agentic-frameworks-for-finance)
-- [FAQ (For Developers & Analysts)](#faq)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📋 Table of Contents
+- [💼 SaaS Platforms & Enterprise Solutions](#saas-platforms--enterprise-solutions)
+- [💻 Open-Source GitHub Repositories](#open-source-github-repositories)
+- [🎯 Niche Use Cases & Agentic Workflows](#niche-use-cases--agentic-workflows)
+- [🛠️ Agentic AI Frameworks for Finance](#agentic-ai-frameworks-for-finance)
+- [💬 FAQ (Frequently Asked Questions)](#faq-frequently-asked-questions)
+- [🤝 How to Contribute](#how-to-contribute)
+- [⚠️ Disclaimer](#disclaimer)
 
 ---
 
-## SaaS Products
+## 💼 SaaS Platforms & Enterprise Solutions
 
 ### Professional Agent Platforms (Enterprise Grade)
 
@@ -48,7 +62,7 @@ In 2026, "AI Copilots" have evolved into **Autonomous Research Agents**. This re
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Repositories
 
 - **[OpenClaw](https://github.com/OpenClaw/OpenClaw)** [![GitHub Stars](https://img.shields.io/github/stars/OpenClaw/OpenClaw?style=social&color=white)](https://github.com/OpenClaw/OpenClaw/stargazers)  
   A personal AI assistant framework that has seen rapid growth, serving as a key component for private research interfaces.
@@ -79,7 +93,7 @@ In 2026, "AI Copilots" have evolved into **Autonomous Research Agents**. This re
 
 ---
 
-## Niche Use Cases & Agentic Workflows
+## 🎯 Niche Use Cases & Agentic Workflows
 
 Targeting narrow, high-impact research tasks:
 - **Earnings Call Synthesis**: Autonomous agents that cross-reference transcripts against historical guidance to detect "strategic pivots."
@@ -89,7 +103,7 @@ Targeting narrow, high-impact research tasks:
 
 ---
 
-## Agentic Frameworks for Finance
+## 🛠️ Agentic AI Frameworks for Finance
 
 Frameworks most used in the financial sector for building agents:
 - **[LangGraph](https://github.com/langchain-ai/langgraph)**: For stateful, cyclic agent workflows (e.g., iterative financial modeling).
@@ -99,7 +113,7 @@ Frameworks most used in the financial sector for building agents:
 
 ---
 
-## FAQ
+## 💬 FAQ (Frequently Asked Questions)
 
 ### How do AI agents differ from Financial Chatbots?
 Traditional chatbots are reactive and single-turn. **Equity Research Agents** are proactive, use tools (calculators, web search, database queries), and perform multi-step workflows to verify information across multiple sources.
@@ -112,7 +126,7 @@ Yes. Using frameworks like **Ollama**, **Agno**, and **OpenClaw**, you can deplo
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries (focus on **Agentic** capabilities).
@@ -121,7 +135,7 @@ Yes. Using frameworks like **Ollama**, **Agno**, and **OpenClaw**, you can deplo
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 *AI-generated financial analysis is for informational purposes only and NOT financial advice. Always consult licensed professionals. This repository is community-curated.*
 
