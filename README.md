@@ -64,12 +64,6 @@ In 2026, "AI Copilots" have evolved into **Autonomous Research Agents**. This re
 
 ## 💻 Open-Source GitHub Repositories
 
-- **[OpenClaw](https://github.com/OpenClaw/OpenClaw)** [![GitHub Stars](https://img.shields.io/github/stars/OpenClaw/OpenClaw?style=social&color=white)](https://github.com/OpenClaw/OpenClaw/stargazers)  
-  A personal AI assistant framework that has seen rapid growth, serving as a key component for private research interfaces.
-
-- **[Ollama](https://github.com/ollama/ollama)** [![GitHub Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)  
-  The go-to backend for running LLMs (Llama 3, Mistral, etc.) locally and privately to analyze sensitive financial data without cloud exposure.
-
 - **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** [![GitHub Stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=social&color=white)](https://github.com/TauricResearch/TradingAgents/stargazers)  
   A "Trading Firm in a Box" using LangGraph to orchestrate Fundamental, Technical, and Risk Management agents.
 
