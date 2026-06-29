@@ -37,23 +37,14 @@ In 2026, "AI Copilots" have evolved into **Autonomous Research Agents**. This re
 
 ### Professional Agent Platforms (Enterprise Grade)
 
-- **[Hebbia (Matrix Agents)](https://www.hebbia.com/)**  
-  The leader in **Matrix Agents** for deep, multi-document analysis. Specialized in handling 10-Ks, earnings calls, and complex private credit documents with agentic reasoning.
-
-- **[AlphaSense](https://www.alpha-sense.com/)**  
-  Market intelligence platform with **AI-powered sentiment tracking** and semantic search across premium financial datasets.
-
-- **[Bloomberg (ASKB / Terminal Agents)](https://www.bloomberg.com/)**  
-  Integrating agentic capabilities directly into the Terminal for natural language querying of the world's deepest financial data lake.
-
-- **[Energent.ai](https://energent.ai/)**  
-  Zero-code AI agent platform with 94.4% accuracy on financial benchmarks. Excellent for automating **sector-specific market intelligence**.
-
-- **[Prospero.ai](https://prospero.ai/)**  
-  Autonomous agents for generating **professional-grade equity research reports** and institutional investment theses.
-
-- **[FilingFirehose](https://filingfirehose.com/)**  
-  SEC EDGAR risk-scoring platform with **AI per-ticker reports** that surface 8-K cyber incidents, dilution, restatement risk, and officer departures across any US-listed company. Includes a hosted MCP endpoint at `https://filingfirehose.com/mcp` for agents.
+| SaaS Product | Description / Agentic Value | Pricing | Free Tier / Limits |
+| :--- | :--- | :--- | :--- |
+| **[Hebbia (Matrix Agents)](https://www.hebbia.com/)** | The leader in **Matrix Agents** for deep, multi-document analysis. Specialized in handling 10-Ks, earnings calls, and complex private credit documents with agentic reasoning. | Custom Enterprise (not publicly disclosed, contact sales) | None |
+| **[AlphaSense](https://www.alpha-sense.com/)** | Market intelligence platform with **AI-powered sentiment tracking** and semantic search across premium financial datasets. | Custom Enterprise (est. $10,000–$40,000+/seat/year, contact sales) | None (offers free trial for qualified organizations) |
+| **[Bloomberg (ASKB / Terminal Agents)](https://www.bloomberg.com/)** | Integrating agentic capabilities directly into the Terminal for natural language querying of the world's deepest financial data lake. | $31,980/seat/year (volume discounts available) | None |
+| **[Energent.ai](https://energent.ai/)** | Zero-code AI agent platform with 94.4% accuracy on financial benchmarks. Excellent for automating **sector-specific market intelligence**. | Custom Enterprise (contact sales) | None (offers a free trial to test tools) |
+| **[Prospero.ai](https://prospero.ai/)** | Autonomous agents for generating **professional-grade equity research reports** and institutional investment theses. | Free core app features; premium features available | Yes (free access to core app features, real-time signals, daily picks) |
+| **[FilingFirehose](https://filingfirehose.com/)** | SEC EDGAR risk-scoring platform with **AI per-ticker reports** that surface 8-K cyber incidents, dilution, restatement risk, and officer departures across any US-listed company. Includes a hosted MCP endpoint at `https://filingfirehose.com/mcp` for agents. | Starts at $29/month | Yes (access to SEC filings from the past 72 hours, no API key required) |
 
 ---
 
