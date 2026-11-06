@@ -85,6 +85,9 @@ In 2026, "AI Copilots" have evolved into **Autonomous Research Agents**. This re
 - **[xvary-research/Stock-Research](xvary-research/claude-code-stock-analysis-skill)** [![GitHub Stars](https://img.shields.io/github/stars/xvary-research/claude-code-stock-analysis-skill?style=social&color=white)](https://github.com/xvary-research/claude-code-stock-analysis-skill/stargazers)  
   Specialized skill for Claude Code that integrates SEC EDGAR data for automated stock scoring and comparison.
 
+- **[AnyModelBot](https://github.com/modelflare-ai/AnyModelBot)** [![GitHub Stars](https://img.shields.io/github/stars/modelflare-ai/AnyModelBot?style=social&color=white)](https://github.com/modelflare-ai/AnyModelBot/stargazers)  
+  Open-source desktop app whose US Equity Research Bot plans, fetches SEC EDGAR filings, self-checks and writes a report in which every number is traceable to its source; a companion Company Research Bot runs four research tracks, curation and briefing into a sourced report with PDF export. Reports stay on the user's device; not investment advice.
+
 ---
 
 ## 🎯 Niche Use Cases & Agentic Workflows
